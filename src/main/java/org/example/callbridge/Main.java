@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Ok");
         System.out.println("Siam is Juna's Daddy");
         System.out.println("Ooo");
+        System.out.println("ok");
     }
 }
